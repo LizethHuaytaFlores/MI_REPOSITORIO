@@ -6,4 +6,5 @@
 6. git log
 7. git commit
 8. git checkout -- . //restaurar commit 
+9. hola
 
