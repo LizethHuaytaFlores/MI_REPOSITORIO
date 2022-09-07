@@ -7,4 +7,5 @@
 7. git commit
 8. git checkout -- . //restaurar commit 
 9. git branch  //crea rama mpo
-
+10. git merge //git para unir 
+11. git branch -d Nueva_Rama
